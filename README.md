@@ -1,3 +1,3 @@
 # AL-framework
 
-The active learning (AL) framework will be made public soon.
+The active learning (AL) framework will be public soon.
